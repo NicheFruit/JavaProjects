@@ -1,4 +1,4 @@
-# Java-Projects-1
+# Java Projects: #1
 2025 Start, not sure when it ends.
 
 - Hello, this is where I store the majority of my `Java☕️` projects!
